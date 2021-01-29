@@ -1,37 +1,33 @@
-## Welcome to Greedy Android Website!
+# GreedyAndroid
+GreedyAndroid is an Android game and it's developed based on App Inventor.
 
-You can use the [editor on GitHub](https://github.com/weiyysz/GreedyAndroid/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+贪吃的安卓是一个安卓小游戏，它基于App Inventor开发。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+发布版下载请至releases页面。
 
-### Markdown
+2021 by weiyysz
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+---------------------------------------------------------------------------
+下面是使用说明
 
-```markdown
-Syntax highlighted code block
+·进入程序会先收到“请摇晃手机来控制角色”的提示，不久会消失。
 
-# Header 1
-## Header 2
-### Header 3
+·点击开始游戏按钮，就可以控制小安卓角色，与此同时加分项（也就是小球）就会出现，背景音乐也会开始播放，关于按钮消失，取而代之的是暂停按钮，开始游戏将变为结束游戏。
 
-- Bulleted
-- List
+·点击暂停按钮时小安卓将停在刚才的地方，你将无法控制它，与此同时暂停将会变成继续，但背景音乐不会停止。点击继续按钮，游戏将继续。
 
-1. Numbered
-2. List
+·当小安卓碰到小球时将会发出加分提示音，并且得分将增加五分，小安卓体积将会增大，小球将会出现在画布中随机的一个地方。
 
-**Bold** and _Italic_ and `Code` text
+·游戏满分为1000分，每到50分时将会发出特别的提示音并且显示加油的提示，与此同时小安卓的体积将会重新变成最开始的大小，因为当它达到一定体积时无论怎样都会碰到画布边缘，游戏也就结束了。
 
-[Link](url) and ![Image](src)
-```
+·当你玩到1000分时，游戏将自动结束，并且显示“恭喜您，你赢了!”的提示。暂停按钮消失，结束游戏变为开始游戏，背景音乐结束播放，关于按钮显示。
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+·如果你碰到了画布的边缘，那么游戏就结束，暂停按钮消失，结束游戏变为开始游戏，关于按钮显示，显示“游戏结束GameOver!”的提示，并且发出碰到边缘的提示音，背景音乐结束播放。
 
-### Jekyll Themes
+·不管是在非游戏期间还是在游戏期间，退出按钮都会显示，点击它时程序将会自动退出，正在玩的游戏将结束。
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/weiyysz/GreedyAndroid/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+·点击音乐按钮，可以选择你要在游戏时听的BGM，本应用共提供了三个BGM，默认为BGM1。但需要注意的是，退出游戏后游戏BGM的更改将不会被保存，也就是说当你再次启动此应用时BGM将变回原来的BGM1。在游戏期间不可更改游戏BGM。
 
-### Support or Contact
+此外，在本应用中还有一个小彩蛋，细心的你有没有找到呢?
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+最后，再次感谢您使用此应用!
