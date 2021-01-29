@@ -5,7 +5,7 @@ GreedyAndroid is an Android game and it's developed based on App Inventor.
 
 发布版下载请至releases页面。
 
-2020 by weiyysz
+2021 by weiyysz
 
 ---------------------------------------------------------------------------
 下面是使用说明
@@ -27,8 +27,6 @@ GreedyAndroid is an Android game and it's developed based on App Inventor.
 ·不管是在非游戏期间还是在游戏期间，退出按钮都会显示，点击它时程序将会自动退出，正在玩的游戏将结束。
 
 ·点击音乐按钮，可以选择你要在游戏时听的BGM，本应用共提供了三个BGM，默认为BGM1。但需要注意的是，退出游戏后游戏BGM的更改将不会被保存，也就是说当你再次启动此应用时BGM将变回原来的BGM1。在游戏期间不可更改游戏BGM。
-
-·此程序的LOGO就是一个安卓，但在不同的安卓系统上可能会有不同。EMUI上的是透明的，但MIUI上的有白色的背景。已经在安卓9和10上测试过，都可以正常运行。
 
 此外，在本应用中还有一个小彩蛋，细心的你有没有找到呢?
 
