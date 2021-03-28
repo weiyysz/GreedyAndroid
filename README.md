@@ -3,6 +3,8 @@ GreedyAndroid is an Android game and it's developed based on App Inventor.
 
 贪吃的安卓是一个安卓小游戏，它基于App Inventor开发。
 
+最新版为1.03（更新日期2021.3.28）
+
 发布版下载请至releases页面。
 
 2021 by weiyysz
@@ -27,6 +29,8 @@ GreedyAndroid is an Android game and it's developed based on App Inventor.
 ·不管是在非游戏期间还是在游戏期间，退出按钮都会显示，点击它时程序将会自动退出，正在玩的游戏将结束。
 
 ·点击音乐按钮，可以选择你要在游戏时听的BGM，本应用共提供了三个BGM，默认为BGM1。但需要注意的是，退出游戏后游戏BGM的更改将不会被保存，也就是说当你再次启动此应用时BGM将变回原来的BGM1。在游戏期间不可更改游戏BGM。
+
+·点击背景按钮，你可以选择四种颜色，分别是蓝色，红色，黑色和黄色。你可以根据自己的爱好来决定。同样设置不会保存，默认是蓝色。
 
 此外，在本应用中还有一个小彩蛋，细心的你有没有找到呢?
 
